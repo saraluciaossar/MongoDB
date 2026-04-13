@@ -27,5 +27,4 @@ Working with embedded documents and arrays
 Data exploration and transformation
 
 ### Tools Used
-MongoDB
 MongoDB Compass
